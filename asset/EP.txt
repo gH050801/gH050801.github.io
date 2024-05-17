@@ -1,0 +1,11 @@
+@inproceedings{
+  author       = {Huan Gao and
+                  Manli Wu and
+                  Heng Liu and
+                  ZeLiang Liu and 
+                 Yirui Xu }, 
+  title        = { Effect of petroleum hydrocarbon pollution levels on the soil microecosystem and ecological function },
+  booktitle    = { Environmental Pollution - {EP} 2022},
+  year         = {2022}
+}
+

@@ -1,0 +1,12 @@
+@inproceedings{
+  author       = {Xuhong Zhang and
+                  Manli Wu and
+                  Ting Zhang and
+                  Huan Gao and 
+　　　　　　　　　Yawen Ou and 
+                 Mengqi Li}, 
+  title        = { Effects of biochar immobilization of Serratia sp. F4 OR414381 on bioremediation of petroleum contamination and bacterial community composition in loess soil},
+  booktitle    = {Journal of Hazardous Materials - {JHM} 2024},
+  year         = {2024}
+}
+

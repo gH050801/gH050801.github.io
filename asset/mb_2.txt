@@ -1,0 +1,12 @@
+@inproceedings{
+  author       = {Heng Liu and
+                  Huan Gao and
+                  Manli Wu and
+                  Chuang Ma and 
+　　　　　　　　　Jialuo Wu and 
+                 Xiqiong Ye}, 
+  title        = { Distribution Characteristics of Bacterial Communities and Hydrocarbon Degradation Dynamics During the Remediation of Petroleum-Contaminated Soil by Enhancing Moisture Content},
+  booktitle    = {Microbial Ecology - {ME} 2020},
+  year         = {2020}
+}
+
