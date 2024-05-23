@@ -1,0 +1,11 @@
+@inproceedings{
+  author       = {Huan Gao and
+                  Manli Wu and
+                  Heng Liu and
+                  Yawen Ou and 
+                 Ting Zhang}, 
+  title        = { nraveling the Positive Effect of Soil Moisture on the Bioaugmentation of Petroleum?Contaminated Soil Using Bioinformatics },
+  booktitle    = {Microbial Ecology - {mb} 2023},
+  year         = {2023}
+}
+
